@@ -1,0 +1,4 @@
+:host([theme~="meta"]) [part='content'],
+:host([theme~="meta"]) [part='footer'] {
+	padding: 0;
+}
